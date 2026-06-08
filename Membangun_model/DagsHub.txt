@@ -1,2 +1,0 @@
-Link DagsHub: https://dagshub.com/RafiPramana05/mlsystem-studi-kasus-cs
-Link MLflow UI: https://dagshub.com/RafiPramana05/mlsystem-studi-kasus-cs.mlflow
